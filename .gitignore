@@ -1,0 +1,11 @@
+Binaries/
+Intermediate/
+Saved/
+MomokuNoSamurai/Content/MobileStarterContent/
+
+*.sln
+*.sdf
+*.opensdf
+*.suo
+*.db
+*.opendb
